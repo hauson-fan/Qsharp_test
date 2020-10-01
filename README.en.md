@@ -1,6 +1,6 @@
 # Qsharp测试
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitee.com%2Fhf1123%2Fqsharp-test/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fhauson-fan%2FQsharp_test/master)
 
 #### Description
 The Mybinder test of Qsharp
