@@ -1,6 +1,6 @@
 # Qsharp测试
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hauson-fan/Qsharp_test/master?filepath=Test.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hauson-fan/Qsharp_test/master)
 
 #### Description
 The Mybinder test of Qsharp
